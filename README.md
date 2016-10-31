@@ -14,7 +14,7 @@
     <!-- CSS && JS -->
 ```
 
-#Note: Please, don't forget use jquery version 1.x. Add jquery before `owl.carousel.min.js` and `canvas.js`
+#Note: Please, remember use jquery version 1.x. Add jquery before `owl.carousel.min.js` and `canvas.js`
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
